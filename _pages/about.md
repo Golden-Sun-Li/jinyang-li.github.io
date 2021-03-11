@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Jinyang Li's Personal Webpage!!!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi, I'm the junior PhD student in Department of Computer Science of Duke University, co-advised by [Prof.Bhuwan Dhingra](http://www.cs.cmu.edu/~bdhingra/) and [Prof.Sam Wiseman](http://www.ttic.edu/wiseman). Before joining Duke CS, I was a research assistant in [HIT-SCIR](http://ir.hit.edu.cn/) advised by [Ting Liu](https://scholar.google.com/citations?user=zyMJ1V0AAAAJ&hl=en), [EECS-Peking University](https://eecs.pku.edu.cn/Home/HOME.htm) advised by [Xihong Wu](https://scholar.google.com/citations?user=0ZSjU8QAAAAJ&hl=zh-CN) and [TSAIL Group in Tsinghua University](https://ml.cs.tsinghua.edu.cn/) advised by Prof. [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml).
 
 A data-driven personal website
 ======
