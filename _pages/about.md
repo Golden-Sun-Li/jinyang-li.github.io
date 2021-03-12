@@ -20,17 +20,18 @@ I'm highly interested in Natural Language Processing & Understanding Problems, e
 
 News
 ======
-(12/3 2021) I decided to move to North Carolina in order to pursue my PhD degree in Duke University!
-(07/2 2021) Our paper has been accepted to 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA).
-(09/2 2021) Our paper has been submitted to SIGIR 2021, good luck!
+(12/3 2021) I decided to move to North Carolina in order to pursue my PhD degree in Duke University!(<br>)
+(07/2 2021) Our paper has been accepted to 6th International Conference on Cloud Computing and Big Data Analytics ([ICCCBDA](http://www.icccbd.com/)).(<br>)
+(09/2 2021) Our paper has been submitted to [SIGIR 2021](https://sigir.org/sigir2021/), good luck!(<br>)
 
 Miscellaneous
 ======
 * I'm good at playing the electrical piano.
 * I'm fond of songs of Junjie Lin pretty much
 * I'm also good at playing lol, if you are interested as well, tell me!!!!
+* I'm the member of 2015 Youth Assembly at United Nations, delegate for China Mainland
 
 
 For more info
 ------
-If you have any questions or ideas to talk with me, please contact me at jl5173@columbia.edu / jl3177@cs.duke.edu
+If you have any questions or ideas to talk with me, please contact me at [jl5173@columbia.edu](jl5173@columbia.edu) / [jl3177@cs.duke.edu](jl3177@cs.duke.edu)
