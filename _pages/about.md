@@ -20,9 +20,9 @@ I'm highly interested in Natural Language Processing & Understanding Problems, e
 
 News
 ======
-(12/3 2021) I decided to move to North Carolina in order to pursue my PhD degree in Duke University!(<br>)
-(07/2 2021) Our paper has been accepted to 6th International Conference on Cloud Computing and Big Data Analytics ([ICCCBDA](http://www.icccbd.com/)).(<br>)
-(09/2 2021) Our paper has been submitted to [SIGIR 2021](https://sigir.org/sigir2021/), good luck!(<br>)
+(12/3 2021) I decided to move to North Carolina in order to pursue my PhD degree in Duke University!<br>
+(07/2 2021) Our paper has been accepted to 6th International Conference on Cloud Computing and Big Data Analytics ([ICCCBDA](http://www.icccbd.com/)).<br>
+(09/2 2021) Our paper has been submitted to [SIGIR 2021](https://sigir.org/sigir2021/), good luck!<br>
 
 Miscellaneous
 ======
