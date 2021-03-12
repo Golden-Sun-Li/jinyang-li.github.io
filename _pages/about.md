@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm the junior PhD student in Department of Computer Science of Duke University, co-advised by [Prof.Bhuwan Dhingra](http://www.cs.cmu.edu/~bdhingra/) and [Prof.Sam Wiseman](http://www.ttic.edu/wiseman). Before joining Duke CS, I was a research assistant in [HIT-SCIR](http://ir.hit.edu.cn/) advised by [Ting Liu](https://scholar.google.com/citations?user=zyMJ1V0AAAAJ&hl=en), [EECS-Peking University](https://eecs.pku.edu.cn/Home/HOME.htm) advised by [Xihong Wu](https://scholar.google.com/citations?user=0ZSjU8QAAAAJ&hl=zh-CN) and [TSAIL Group in Tsinghua University](https://ml.cs.tsinghua.edu.cn/) advised by Prof. [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I received my M.S degree of Electrical Engineering from Columbia University in the City of New York on Feb.2020, and B.Eng degree of Electrical Engineering and Automation from Harbin Institute of Technology on June.2017.
+Hi, I'm the junior PhD student in Department of Computer Science of Duke University, 
+co-advised by [Prof.Bhuwan Dhingra](http://www.cs.cmu.edu/~bdhingra/) and [Prof.Sam Wiseman](http://www.ttic.edu/wiseman). My long research goal is to train machines to really understand human lanuguages. 
+
+Before joining Duke CS, I was a research assistant in [HIT-SCIR](http://ir.hit.edu.cn/) advised by [Ting Liu](https://scholar.google.com/citations?user=zyMJ1V0AAAAJ&hl=en), [EECS-Peking University](https://eecs.pku.edu.cn/Home/HOME.htm) advised by [Xihong Wu](https://scholar.google.com/citations?user=0ZSjU8QAAAAJ&hl=zh-CN) and [TSAIL Group in Tsinghua University](https://ml.cs.tsinghua.edu.cn/) advised by Prof. [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml). 
+
+Besides, I received my M.S degree of Electrical Engineering from Columbia University in the City of New York on Feb.2020, and B.Eng degree of Electrical Engineering and Automation from Harbin Institute of Technology on June.2017.
 
 Research Interests
 ======
